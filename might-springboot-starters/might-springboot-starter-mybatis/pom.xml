@@ -3,13 +3,13 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>io.github.might</groupId>
-        <artifactId>might-spring-boot-starters</artifactId>
+        <artifactId>might-springboot-starters</artifactId>
         <version>${revision}</version>
     </parent>
 
 
     <groupId>io.github.might</groupId>
-    <artifactId>might-springboot-starters-mybatis</artifactId>
+    <artifactId>might-springboot-starter-mybatis</artifactId>
     <packaging>jar</packaging>
 
     <dependencies>

@@ -9,12 +9,12 @@
     </parent>
 
     <groupId>io.github.might</groupId>
-    <artifactId>might-spring-boot-starters</artifactId>
+    <artifactId>might-springboot-starters</artifactId>
     <packaging>pom</packaging>
 
     <modules>
-<!--        <module>might-springboot-starter-web</module>-->
-        <module>might-springboot-starters-mybatis</module>
+        <module>might-springboot-starter-web</module>
+        <module>might-springboot-starter-mybatis</module>
     </modules>
 
 </project>

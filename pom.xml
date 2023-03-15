@@ -20,7 +20,7 @@
     <modules>
         <module>might-dependencies</module>
         <module>might-common</module>
-        <module>might-spring-boot-starters</module>
+        <module>might-springboot-starters</module>
     </modules>
 
     <developers>
